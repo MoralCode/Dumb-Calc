@@ -1,0 +1,22 @@
+{
+  "name": "dumb-calc",
+  "version": "1.0.0",
+  "description": "simple dumb calculator",
+  "main": "main.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrestonHager/SimpleCalc.git"
+  },
+  "keywords": [
+    "calc"
+  ],
+  "author": "Preston Hager",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/PrestonHager/SimpleCalc/issues"
+  },
+  "homepage": "https://github.com/PrestonHager/SimpleCalc#readme"
+}
